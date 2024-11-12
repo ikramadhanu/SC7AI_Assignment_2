@@ -1,4 +1,5 @@
 <h1><strong>SC7AI_Assignment_2</strong></h1>
+<h3>Machine Learning & Deep Learning</h3>
 <hr>
 <ol>
   <li>02-Kelompok G-1</li>
